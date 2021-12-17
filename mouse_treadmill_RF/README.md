@@ -1,6 +1,6 @@
 **Mouse treadmill design for head-fixed experiments in RF environment**
 
-![plot](./E:/git/misiVoroslakos/3D_printed_designs/mouse_treadmill_RF/mouse_treadmill_v3.jpg)
+![alt text](https://github.com/misiVoroslakos/3D_printed_designs/blob/main/mouse_treadmill_RF/mouse_treadmill_v3.jpg)
 
 **ASSEMBLY**
 
