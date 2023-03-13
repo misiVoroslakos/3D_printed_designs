@@ -1,6 +1,6 @@
 **ThermoMaze design**
 
-![alt text](https://github.com/misiVoroslakos/3D_printed_designs/blob/main/ThermoMaze/ThermoMaze/ThermoMaze_v03.png)
+![alt text](https://github.com/misiVoroslakos/3D_printed_designs/blob/376d92594825446e2867013ccad1e00c4d38f8a6/ThermoMaze/ThermoMaze_v03.png)
 
 **ASSEMBLY**
 
