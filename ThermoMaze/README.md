@@ -1,6 +1,6 @@
 **ThermoMaze design**
 
-![alt text](https://github.com/misiVoroslakos/3D_printed_designs/blob/main/mouse_treadmill_RF/mouse_treadmill_v3.jpg)
+![alt text](https://github.com/misiVoroslakos/3D_printed_designs/blob/main/ThermoMaze/ThermoMaze\ThermoMaze_v03.png)
 
 **ASSEMBLY**
 
