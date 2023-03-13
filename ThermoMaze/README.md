@@ -10,8 +10,7 @@ Bill of materials list can be found in the BOM_ThermoMaze_v03.txt.
 
 
 **Temperature Control**
-Peltier elements are connected to a variable voltage source using using a relay system. The relays are controlled by an Arduino Mega (code can be found here: E:\git\misiVoroslakos\3D_printed_designs\ThermoMaze\ThermoMaze_control).
-
+Peltier elements are connected to a variable voltage source using using a relay system. The relays are controlled by an Arduino Mega (code can be found here: https://github.com/misiVoroslakos/3D_printed_designs/blob/e0500883763d40ef34ee553a6d50ed4ee7efd32c/ThermoMaze/ThermoMaze_control/)
 
 **SPECIFICATIONS**
 
