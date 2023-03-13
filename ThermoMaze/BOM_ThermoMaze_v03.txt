@@ -1,0 +1,19 @@
+BOM ThermoMaze_v3
+
+Qty	Name				Vendor		Item number		Notes			Link
+25	Peltier elements		Amazon		TEC1-12706					https://www.amazon.com/GeeBat-TEC1-12706-Thermoelectric-Heatsink-Cooling/dp/B01IT8SAZG/
+
+25	Aluminum Water Cooling Block 	Amazon		B08JKP6HYC		with Nozzle Upward	https://www.amazon.com/uxcell-Aluminum-Heatsink-Computer-Graphics/dp/B08JKP6HYC/
+
+5	Submersible Water Pump		Amazon		B085NQ5VVJ					https://www.amazon.com/LEDGLE-Submersible-Ultra-Quiet-Dual-Purpose-Hydroponics/dp/B085NQ5VVJ/
+
+1	3D-printed frame				Cooling_box_v03.stl				https://github.com/misiVoroslakos/3D_printed_designs/tree/main/ThermoMaze
+
+1 	UV-Resistant Cast Acrylic	McMaster	8505K743		white			https://www.mcmaster.com/8505K743
+	1/8" thickness
+	
+1	Clear Soft PVC Plastic Tubing	McMaster	5233K59						https://www.mcmaster.com/5233K59/
+	for Air and Water, 
+	5/16" ID, 7/16" OD
+
+2	Thermally Condcutive Epoxy	MG Chemicals	8349TFM-25ML					https://www.amazon.com/MG-Chemicals-8349TFM-Thermally-Condcutive/dp/B08Z73HH23/
