@@ -30,6 +30,7 @@ Hall effect sensor is measuring the rotary position of an external magnet attach
 **CITATION**
 
 The original idea of the head-posts is described in the following paper.
+
 RIVETS: a mechanical system for in vivo and in vitro electrophysiology and imaging, Jason E. Osborne, Joshua T. Dudman, PlosOne, 2014
  
 
