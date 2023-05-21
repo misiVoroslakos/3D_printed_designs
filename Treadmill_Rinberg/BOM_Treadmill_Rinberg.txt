@@ -4,7 +4,8 @@ Building block			1	Siskiyou	09360000E	https://www.siskiyou.com/bb-5-0-09360000e.
 
 Pillar post			2	Thorlabs	RS3		https://www.thorlabs.com/thorproduct.cfm?partnumber=RS3
 
-Kinematic Base			1	Thorlabs	KB3X3		https://www.thorlabs.com/thorproduct.cfm?partnumber=KB3X3
+Lockable Kinematic		1	Thorlabs	KBM1		https://www.thorlabs.com/thorproduct.cfm?partnumber=KBM1
+Breadboard
 
 316 Stainless Steel Washer	2	McMaster	91525A128	https://www.mcmaster.com/91525A128/
 Oversized, 1/4" Screw Size
