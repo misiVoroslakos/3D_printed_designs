@@ -1,6 +1,6 @@
 **Treadmill design**
 
-![alt text](https://github.com/misiVoroslakos/3D_printed_designs/blob/aa85294f5f6e2424111c3b9955c82323dac70ad9/Treadmill_Rinberg/Treadmill_v02_full_setup.png)
+![alt text](Treadmill_Rinberg/Treadmill_v02_full_setup.png)
 
 
 **ASSEMBLY**
