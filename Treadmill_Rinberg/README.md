@@ -1,6 +1,6 @@
 **Treadmill design**
 
-![alt text](Treadmill_Rinberg/Treadmill_v02_full_setup.png)
+![alt text](https://github.com/misiVoroslakos/3D_printed_designs/blob/main/Treadmill_Rinberg/TreadMill_v02_full_setup.png)
 
 
 **ASSEMBLY**
@@ -14,6 +14,7 @@ Bill of materials list can be found in the BOM_Treadmill_Rinberg_v02_encoder.txt
 
 The .stl files are optimized for Ultimaker S5 printer. For other printers, some modifications may be necessary. 
 
+**IMPORTANT**
 All designs use 0.1 mm tolerance (2 mm hole is designed for 2.1 mm to achieve perfect, tight fit. NOTE that this tolerance depends on the printer, resolution, and material). Please request the .step or .f3d file if you want to easily modify the design.
 
 The original idea of the treadmill was developed at the Rinberg lab and can be found here: https://github.com/olfa-lab/Imaging-Treadmill
