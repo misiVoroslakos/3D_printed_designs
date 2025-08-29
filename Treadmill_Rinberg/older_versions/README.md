@@ -5,16 +5,14 @@
 
 **ASSEMBLY**
 
-Bill of materials list can be found in the BOM_Treadmill_Rinberg_v02_encoder.txt.
+Bill of materials list can be found in the BOM_Treadmill_Rinberg.txt.
 
 
 **SPECIFICATIONS**
 
 1 version is made available here.
 
-The .stl files are optimized for Ultimaker S5 printer. For other printers, some modifications may be necessary. 
-
-All designs use 0.1 mm tolerance (2 mm hole is designed for 2.1 mm to achieve perfect, tight fit. NOTE that this tolerance depends on the printer, resolution, and material). Please request the .step or .f3d file if you want to easily modify the design.
+The .stl files are optimized for Ultimaker S5 printer. For other printers, some modifications may be necessary.
 
 The original idea of the treadmill was developed at the Rinberg lab and can be found here: https://github.com/olfa-lab/Imaging-Treadmill
 
@@ -26,7 +24,7 @@ Head-posts compatible with this design can be found here: https://github.com/olf
 
 **MEASURING MOTION**
 
-Rotary encoder is measuring the rotary position of an external magnet attached to the Lego rod.
+Hall effect sensor is measuring the rotary position of an external magnet attached to the Lego rod.
 
 
 **CITATION**

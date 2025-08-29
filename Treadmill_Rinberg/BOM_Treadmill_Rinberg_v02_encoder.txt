@@ -1,0 +1,61 @@
+Name				Qty	Vendor		# Number	Address
+
+Building block			1	Siskiyou	09360000E	https://www.siskiyou.com/bb-5-0-09360000e.html
+
+Pillar post			2	Thorlabs	RS3		https://www.thorlabs.com/thorproduct.cfm?partnumber=RS3
+
+Kinematic Base for training	1	Thorlabs	KB3X3		https://www.thorlabs.com/thorproduct.cfm?partnumber=KB3X3
+Kinematic Base for recording	1	Thorlabs	KBM1		https://www.thorlabs.com/thorproduct.cfm?partnumber=KBM1
+
+Stainless Steel Ball Bearing	4	McMaster	57155K336	https://www.mcmaster.com/57155K336/
+Flanged, Shielded 
+Extended Inner Ring, 
+Number R168-2Z
+
+316 Stainless Steel Washer	2	McMaster	91525A128	https://www.mcmaster.com/91525A128/
+Oversized, 1/4" Screw Size
+0.281" ID, 1.5" OD
+
+Plastic-Head Thumb Screws	1	McMaster	91185A927	https://www.mcmaster.com/91185A927/
+Two-Arm, 1/4"-20, 1-1/4" Long
+
+Tap, 1/4"-20, 1" Length		1	McMaster	2521A571	https://www.mcmaster.com/2521A571/
+
+Lego Technic Tread Links 	1	Amazon		B09898D7Y3 	https://www.amazon.com/Black-Technic-Tread-Links-Tracks/dp/B09898D7Y3
+3873 Crane Tank Tracks 
+
+Technic Gear 24 Tooth 		2	Bricklink			https://store.bricklink.com/swissmitch?itemID=345839852#/shop
+with 1 Axle Hole
+
+Technic axle Set 		1	Amazon				https://www.amazon.com/LEGO-10pc-Technic-Mindstorms-robot/dp/B01LW0JJ5G
+
+1/4"-20 Cap Screw Kit 		1	Thorlabs	HW-KIT2		https://www.thorlabs.com/thorproduct.cfm?partnumber=HW-KIT2
+
+Manual manipulator		1	Sutter		MM33-A/R	https://www.sutter.com/MICROMANIPULATION/mm33.html
+
+Adjustable Angle 		1	Thorlabs	AP180		https://www.thorlabs.com/thorproduct.cfm?partnumber=AP180#ad-image-0
+Mounting Plate
+
+Rigid Stand Post Holder		1	Thorlabs	LPH150 		https://www.thorlabs.com/thorproduct.cfm?partnumber=LPH150
+
+1.5" Post 			1	Thorlabs	MPP15		https://www.thorlabs.com/thorproduct.cfm?partnumber=MPP15
+with 66 mm Rail Clamp
+
+Nexus Breadboard		1	Thorlabs	B1818F		https://www.thorlabs.com/thorproduct.cfm?partnumber=B1818F
+18"x18"x2.4", 1/4"-20 Holes
+
+Ultra-Low-Friction Tape 	1	McMaster	6305A21		https://www.mcmaster.com/6305A21/
+Teflon® PTFE Silicone Adhesive
+1/2" Wide, 15 Feet Long
+
+3D printed parts
+	- Treadmill_v02.stl
+	- Frame_v02.stl
+	- Mouse_cover_v02.stl
+	- Left_clamp.stl
+	- Right_clamp.stl
+	- ball_bearing_adapter.stl
+
+
+Analog motion sensor
+ROTARY ENCODER OPTICAL 200PPR	1	DigiKey		516-3508-ND	https://www.digikey.com/en/products/detail/broadcom-limited/HEDR-5420-ES214/2219552?s=N4IgTCBcDaIBYFMAmAnABAVgCxgAxoQGcwBGLEAXQF8g
