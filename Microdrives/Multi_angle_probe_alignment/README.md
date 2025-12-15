@@ -2,6 +2,7 @@ Multi-angle alignment tool for probes.
 
 **INSTRUCTIONS**
 
+Two-axis gimbal (dual-pivot) mount enabling AP and ML alignment of probes attached to stereotactic frames.
 Useful instructions can be found in the **Probe_alignement_tool.pdf** file. 
 
 
