@@ -5,6 +5,7 @@ The .stl files are optimized for Formlabs Form4 printer and Grey-v5/Clear-v5 Res
 1 version is made available here:
 v03: base_cover_spring_multiAngle_v_03, base_holder_spring_multiAngle_v_03, mouse_base_spring_multiAngle_v_03, screw_protector_spring_multiAngle_v_03, stereotax_attachment_spring_multiAngle_v_03
 
+To learn more about the multi-angle alignment tool, read the documentation here: https://github.com/misiVoroslakos/3D_printed_designs/tree/main/Microdrives/Multi_angle_probe_alignment
 
 If you use this design, please cite our paper:
 Metal microdrive and head cap system for silicon probe recovery in freely moving rodent
