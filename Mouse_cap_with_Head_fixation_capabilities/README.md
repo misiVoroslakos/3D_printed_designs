@@ -10,7 +10,7 @@ The `.stl` files are optimized for the **Formlabs Form 4** printer and **Grey V5
 
 You can either use this as a pre-assembled cap:
 
-![Head-fixed silicon probe, combined cap](pictures/head_fixed_silicon_probe_combined_v17.png)
+![Head-fixed silicon cap](pictures/head_fixed_silicon_probe_combined_v17.png)
 
 ...or head-fix a chronically implanted animal using the baseplate:
 
